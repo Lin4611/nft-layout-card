@@ -15,7 +15,7 @@ const NftCard = ({
     <>
       <section className="w-full flex flex-col p-4 bg-[#16263D] gap-5 rounded-xl shadow-[#0C1729] shadow-2xl">
         <div className="relative group">
-          <img src={imgUrl} className="rounded-lg" />
+          <img src={imgUrl} className="rounded-lg w-full h-auto object-cover" />
 
           {/* 遮罩 */}
           <div className="absolute inset-0 bg-[#32C0CC]/60 opacity-0 group-hover:opacity-100 transition duration-200 ease-in-out rounded-lg"></div>
