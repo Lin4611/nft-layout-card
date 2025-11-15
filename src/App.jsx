@@ -34,7 +34,7 @@ const list = [
     ownerPic: owner_pic_3,
   },
   {
-    imgUrl: nft_1,
+    imgUrl: nft_3,
     title: "Prism Bloom #2094",
     description: "A radiant blossom formed from interlocking prisms.",
     price: "0.058",
@@ -43,7 +43,7 @@ const list = [
     ownerPic: owner_pic_1,
   },
   {
-    imgUrl: nft_2,
+    imgUrl: nft_1,
     title: "Cyber Veil #3302",
     description: "A veil-like hologram shifting through neon grids.",
     price: "0.066",
@@ -52,7 +52,7 @@ const list = [
     ownerPic: owner_pic_2,
   },
   {
-    imgUrl: nft_3,
+    imgUrl: nft_2,
     title: "Aurora Node #6180",
     description: "A glowing node channeling aurora beams across its surface.",
     price: "0.083",
