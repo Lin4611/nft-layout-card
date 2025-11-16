@@ -91,7 +91,7 @@ const list = [
 function App() {
   return (
     <>
-      <main className="w-full lg:max-w-[1920px] bg-[#0D1A2D] flex flex-col items-center p-6">
+      <main className="w-full lg:max-w-[1920px] bg-neutral-blue-950 flex flex-col items-center p-6">
         <section className="max-w-[375px] grid md:max-w-3xl lg:max-w-[1440px] lg:grid-cols-3 md:grid-cols-2 grid-cols-1 w-full justify-center items-center gap-10">
           {list.map((p) => (
             <NftCard
